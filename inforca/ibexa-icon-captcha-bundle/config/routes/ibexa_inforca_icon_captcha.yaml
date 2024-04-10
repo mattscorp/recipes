@@ -1,0 +1,3 @@
+ibexa_icon_captcha:
+  path: /captcha-request
+  controller: Inforca\IbexaIconCaptchaBundle\Controller\captchaRequestController::doRequest

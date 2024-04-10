@@ -1,0 +1,8 @@
+{
+    "bundles": {
+        "Inforca\\IbexaIconCaptchaBundle\\IbexaIconCaptchaBundle": ["all"]
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    }
+}
