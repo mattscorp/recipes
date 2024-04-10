@@ -1,0 +1,15 @@
+{
+  "recipes": {
+    "inforca/ibexa-icon-captcha-bundle": [
+      "1.0"
+    ]
+  },
+  "branch": "main",
+  "is_contrib": false,
+  "_links": {
+    "repository": "github.com/mattscorp/recipes",
+    "origin_template": "{package}:{version}@github.com/mattscorp/recipes:main",
+    "recipe_template": "https://raw.githubusercontent.com/mattscorp/recipes/main/{package_dotted}.{version}.json",
+    "recipe_template_relative": "{package_dotted}.{version}.json"
+  }
+}
